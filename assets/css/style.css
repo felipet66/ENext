@@ -1,0 +1,31 @@
+*{
+  		font-family: 'Oswald', sans-serif;
+  	}
+  	.color-primary{
+		color: #B22222;
+	}
+
+	.color-secondary{
+		color: #4B0082;
+	}
+
+	.naav{
+		margin: 25px;
+		width: 100%; /* Valor da Largura */
+	}
+
+	.navbar-secondary{
+		background-color: #4B0082;
+		color: white;
+	}
+
+	.swal-overlay {
+	  background-color: rgba(43, 165, 137, 0.45);
+	}
+
+@media only screen and (max-width: 600px) {
+
+    #esconder{
+    	display: none;
+    }
+}
